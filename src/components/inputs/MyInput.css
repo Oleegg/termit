@@ -1,0 +1,8 @@
+.my-input {
+    display: flex;
+}
+
+.my-label {
+    display: flex;
+    flex-direction: column;
+}
